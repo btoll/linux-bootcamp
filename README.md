@@ -1,3 +1,14 @@
+# Linux Bootcamp
+
+- Week 1: [Environment Variables](/envvars)
+- Week 2: [Linux Namespaces, Part 1](/namespaces/namespaces1.md)
+    + `uts`
+    + `pid`
+- Week 3: [Linux Namespaces, Part 2](/namespaces/namespaces2.md)
+    + `mount`
+    + `net`
+    + `user`
+
 ## References
 
 - [System Architecture](https://benjamintoll.com/2023/01/13/on-the-lpic-1-exam-101-system-architecture/)
