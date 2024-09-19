@@ -1,13 +1,19 @@
 # Linux Bootcamp
 
 - Week 1: [Environment Variables](/envvars)
-- Week 2: [Linux Namespaces, Part 1](/namespaces/namespaces1.md)
+- Week 2: File Ownership and Permissions
+    + `chmod`
+    + `chown`
+- Week 3: [Linux Namespaces, Part 1](/namespaces/namespaces1.md)
     + `uts`
     + `pid`
-- Week 3: [Linux Namespaces, Part 2](/namespaces/namespaces2.md)
+- Week 4: [Linux Namespaces, Part 2](/namespaces/namespaces2.md)
     + `mount`
     + `net`
     + `user`
+- Week 5: [Docker](/docker)
+- Week 6: [Podman](/podman)
+- Week 7: [Buildah](/buildah)
 
 ## References
 
